@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+  }
+  h1 {
+      color: white;
+      font-family: 'Raleway', sans-serif;
+  }
+  
+  p {
+      color:white;
+      font-family: 'Raleway', sans-serif;
+  }
+  
+      /* Style buttons */
+  .etn {
+      background-color: yellow;
+      border: none;
+      color: black;
+      padding: 12px 30px;
+      cursor: pointer;
+      font-size: 20px;
+      border-radius: 25px;
+    }
+    
+    /* Darker background on mouse-over */
+    .etn:hover {
+      background-color: wheat;
+    }
+  
+  div.gallery {
+    border-radius: 15px;
+  }

@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+  }
+
+  /* Style buttons */
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 25px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
+
+    /* Style buttons */
+.ntn {
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 25px;
+  }
+  
+  /* Darker background on mouse-over */
+  .ntn:hover {
+    background-color: royalblue;
+  }
+
+  h1 {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  p {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+  }
+  h2 {
+    color: black;
+  }
+  
+  h3 {
+    opacity: 0,3;
+  }
+
+ 
